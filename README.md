@@ -2,7 +2,7 @@
 
 Front-end practice to explore DOM basics with HTML, CSS, and vanilla JS.
 
-Project finished on Aug 10, 2025 as a part of the Scrimba Fullstack Developer Path.
+Solo project finished on Aug 10, 2025 as a part of the Scrimba Fullstack Developer Path.
 
 See the deployed page at: https://fastidious-queijadas-f8da0f.netlify.app/
 
